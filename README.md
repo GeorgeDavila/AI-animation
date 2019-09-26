@@ -1,6 +1,13 @@
 # AI-animation
 Creating Images of people -who don't exist- using A.I. (and just my face as a starting point)
 
+### Figures
+![alt text](https://github.com/GeorgeDavila/AI-animation/blob/master/fig1.jpg "Figure 1")
+
+![alt text](https://github.com/GeorgeDavila/AI-animation/blob/master/fig2.jpg "Figure 2")
+
+## Watch on youtube for best effect
+See my youtube video on the topic for an easy summary:
 https://youtu.be/cjgPAdcD8eU
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cjgPAdcD8eU
