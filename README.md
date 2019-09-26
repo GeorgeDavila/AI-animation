@@ -4,7 +4,7 @@ Creating Images of people -who don't exist- using A.I. (and just my face as a st
 ### Figures
 ![alt text](https://github.com/GeorgeDavila/AI-animation/blob/master/fig1.jpg "Figure 1")
 
-![alt text](https://github.com/GeorgeDavila/AI-animation/blob/master/fig2.jpg "Figure 2")
+![alt text](https://github.com/GeorgeDavila/AI-animation/blob/master/fig2.png "Figure 2")
 
 ## Watch on youtube for best effect
 See my youtube video on the topic for an easy summary:
